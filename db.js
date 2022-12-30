@@ -7,6 +7,10 @@ const delivery = require("./data/delivery.json")
 const feeds = require("./data/feeds.json")
 const articleById = require("./data/articleById.json")
 const valetParking = require("./data/valetParking.json")
+const vehicles = require("./data/vehicles.json")
+const vechicles_requests = require("./data/vehicles-requests.json")
+const pets = require("./data/pets.json")
+const pets_requests = require("./data/pets-requests.json")
 
 module.exports = {
     getPackagesByFunctionalUnit,
@@ -16,5 +20,9 @@ module.exports = {
     delivery,
     feeds,
     articleById,
-    valetParking
+    valetParking,
+    vehicles,
+    vechicles_requests,
+    pets,
+    pets_requests
 }
