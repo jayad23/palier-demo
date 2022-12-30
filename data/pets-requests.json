@@ -1,0 +1,64 @@
+{
+  "pets_requests": [
+    {
+      "id": 1,
+      "size_id": 1,
+      "type_id": 1,
+      "sex_id": 0,
+      "fur_type_id": 1,
+      "name": "Firulais",
+      "birthday": 1672432191803,
+      "last_vaccination_date": 1672432181803,
+      "comments": "Es bueno cuidando niños.",
+      "sterilized": true
+    },
+    {
+      "id": 2,
+      "size_id": 1,
+      "type_id": 1,
+      "sex_id": 0,
+      "fur_type_id": 1,
+      "name": "Ayudante de Santa",
+      "birthday": 1672432191803,
+      "last_vaccination_date": 1672432181803,
+      "comments": "Es bueno repartiendo regalos.",
+      "sterilized": true
+    },
+    {
+      "id": 3,
+      "size_id": 1,
+      "type_id": 1,
+      "sex_id": 0,
+      "fur_type_id": 1,
+      "name": "Lazie",
+      "birthday": 1672432191803,
+      "last_vaccination_date": 1672432181803,
+      "comments": "Es bueno auyentando gente mala.",
+      "sterilized": true
+    },
+    {
+      "id": 4,
+      "size_id": 1,
+      "type_id": 1,
+      "sex_id": 0,
+      "fur_type_id": 1,
+      "name": "Bethoven",
+      "birthday": 1672432191803,
+      "last_vaccination_date": 1672432181803,
+      "comments": "Es bueno atravezando la nieve.",
+      "sterilized": true
+    },
+    {
+      "id": 5,
+      "size_id": 1,
+      "type_id": 1,
+      "sex_id": 0,
+      "fur_type_id": 1,
+      "name": "Rex",
+      "birthday": 1672432191803,
+      "last_vaccination_date": 1672432181803,
+      "comments": "Es bueno resolviendo casos.",
+      "sterilized": true
+    }
+  ]
+}

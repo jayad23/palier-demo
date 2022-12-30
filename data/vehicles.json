@@ -1,0 +1,94 @@
+{
+  "vehicles": [
+    {
+      "id": 1,
+      "brand": {
+        "name": "Mercedes"
+      },
+      "model": {
+        "name": "1987"
+      },
+      "color": {
+        "name": "Gray"
+      },
+      "fuel_type": {
+        "name": "Diesel"
+      },
+      "license_plate": "RMA-123",
+      "comments": "Está en excelentes condiciones",
+      "is_rented": false
+    },
+    {
+      "id": 2,
+      "brand": {
+        "name": "BMW"
+      },
+      "model": {
+        "name": "1987"
+      },
+      "color": {
+        "name": "Gray"
+      },
+      "fuel_type": {
+        "name": "Diesel"
+      },
+      "license_plate": "RMA-123",
+      "comments": "Está en excelentes condiciones",
+      "is_rented": false
+    },
+    {
+      "id": 3,
+      "brand": {
+        "name": "Aston Martin"
+      },
+      "model": {
+        "name": "1987"
+      },
+      "color": {
+        "name": "Gray"
+      },
+      "fuel_type": {
+        "name": "Diesel"
+      },
+      "license_plate": "RMA-123",
+      "comments": "Está en excelentes condiciones",
+      "is_rented": false
+    },
+    {
+      "id": 4,
+      "brand": {
+        "name": "Jaguar"
+      },
+      "model": {
+        "name": "1987"
+      },
+      "color": {
+        "name": "Yellow"
+      },
+      "fuel_type": {
+        "name": "Diesel"
+      },
+      "license_plate": "RMA-123",
+      "comments": "Está en excelentes condiciones",
+      "is_rented": false
+    },
+    {
+      "id": 5,
+      "brand": {
+        "name": "Mustang SS"
+      },
+      "model": {
+        "name": "1987"
+      },
+      "color": {
+        "name": "Gray"
+      },
+      "fuel_type": {
+        "name": "Diesel"
+      },
+      "license_plate": "RMA-123",
+      "comments": "Está en excelentes condiciones",
+      "is_rented": false
+    }
+  ]
+}
