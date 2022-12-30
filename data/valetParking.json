@@ -1,0 +1,70 @@
+{
+    "valetParking": [
+        {
+            "application_number": 9,
+            "retreat_date": "05/09/2022",
+            "retreat_hour": "11:30",
+            "selected_time": "10'",
+            "brand": "Audi",
+            "model": "R8",
+            "color": "Naranja",
+            "patent": "SS101",
+            "name": "Sam",
+            "surname": "Smith",
+            "functional_unit": 1701
+        },
+        {
+            "application_number": 10,
+            "retreat_date": "05/09/2022",
+            "retreat_hour": "11:30",
+            "selected_time": "10'",
+            "brand": "BMW",
+            "model": "Serie 7",
+            "color": "Naranja",
+            "patent": "ST101",
+            "name": "Ana",
+            "surname": "de Armas",
+            "functional_unit": 309
+        },
+        {
+            "application_number": 11,
+            "retreat_date": "06/09/2022",
+            "retreat_hour": "11:30",
+            "selected_time": "20'",
+            "brand": "Mercedes Benz",
+            "model": "EQS",
+            "color": "Naranja",
+            "patent": "DD101",
+            "name": "Donald",
+            "surname": "Trump",
+            "functional_unit": 902
+        },
+        {
+            "application_number": 12,
+            "retreat_date": "06/09/2022",
+            "retreat_hour": "11:30",
+            "selected_time": "20'",
+            "brand": "Audi",
+            "model": "A8",
+            "color": "Naranja",
+            "patent": "DT101",
+            "name": "Zac",
+            "surname": "Efron",
+            "functional_unit": 2501
+        },
+        {
+            "application_number": 13,
+            "retreat_date": "10/09/2022",
+            "retreat_hour": "10:30",
+            "selected_time": "10'",
+            "brand": "Rolls-Royce",
+            "model": "Wraith",
+            "color": "Naranja",
+            "patent": "DO101",
+            "name": "Lionel",
+            "surname": "Messi",
+            "phone": "333 6891 142",
+            "functional_unit": 1010
+        }
+    ]
+}

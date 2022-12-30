@@ -1,0 +1,48 @@
+{
+    "articleById": [
+        {
+            "id": 0,
+            "title": "ID 0",
+            "coverImageUrl": "http://www.laprensafederal.com.ar/wp-content/uploads/2022/03/p13-at-tucuman-1024x561.jpg",
+            "body": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "imageUrl": "https://fotos.perfil.com/2021/09/17/trim/720/410/patronato-como-es-la-formacion-para-enfrentarse-a-estudiantes-1231976.jpg",
+            "documentUrl": 0,
+            "videoUrl": "string",
+            "startDate": "12/12/12",
+            "creationUser": "Lionel Messi"
+        },
+        {
+            "id": 1,
+            "title": "ID 1",
+            "coverImageUrl": "http://www.laprensafederal.com.ar/wp-content/uploads/2022/03/p13-at-tucuman-1024x561.jpg",
+            "body": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "imageUrl": "https://fotos.perfil.com/2021/09/17/trim/720/410/patronato-como-es-la-formacion-para-enfrentarse-a-estudiantes-1231976.jpg",
+            "documentUrl": 0,
+            "videoUrl": "string",
+            "startDate": "12/12/12",
+            "creationUser": "Lionel Messi"
+        },
+        {
+            "id": 2,
+            "title": "ID 2",
+            "coverImageUrl": "http://www.laprensafederal.com.ar/wp-content/uploads/2022/03/p13-at-tucuman-1024x561.jpg",
+            "body": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "imageUrl": "https://fotos.perfil.com/2021/09/17/trim/720/410/patronato-como-es-la-formacion-para-enfrentarse-a-estudiantes-1231976.jpg",
+            "documentUrl": 0,
+            "videoUrl": "string",
+            "startDate": "12/12/12",
+            "creationUser": "Lionel Messi"
+        },
+        {
+            "id": 3,
+            "title": "ID 3",
+            "coverImageUrl": "http://www.laprensafederal.com.ar/wp-content/uploads/2022/03/p13-at-tucuman-1024x561.jpg",
+            "body": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "imageUrl": "https://fotos.perfil.com/2021/09/17/trim/720/410/patronato-como-es-la-formacion-para-enfrentarse-a-estudiantes-1231976.jpg",
+            "documentUrl": 0,
+            "videoUrl": "string",
+            "startDate": "12/12/12",
+            "creationUser": "Lionel Messi"
+        }
+    ]
+}

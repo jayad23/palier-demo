@@ -1,0 +1,19 @@
+{
+    "getPackagesByFunctionalUnit": [
+        {
+            "code": "ap02j65",
+            "company": "Amazon",
+            "status": false
+        },
+        {
+            "code": "ap02j65dsa",
+            "company": "Amaazo",
+            "status": false
+        },
+        {
+            "code": "ap02j65s",
+            "company": "Amazon",
+            "status": false
+        }
+    ]
+}

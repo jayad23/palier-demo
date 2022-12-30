@@ -1,0 +1,46 @@
+{
+    "feeds": [
+        {
+            "id": 0,
+            "title": "Ganó Boca",
+            "headerimageurl": "https://pbs.twimg.com/media/E2W-PoQXoAQG-gB.jpg",
+            "subtitle": "El equipo mas grande de Arg"
+        },
+        {
+            "id": 1,
+            "title": "Perdió Riber",
+            "headerimageurl": "https://media.tycsports.com/files/2021/12/06/368366/river-invicto_416x234.jpg",
+            "subtitle": "De nuevo"
+        },
+        {
+            "id": 2,
+            "title": "Juega la selección",
+            "headerimageurl": "https://radiomitre-la100-prod.cdn.arcpublishing.com/resizer/lvjmjy1X3S9siN3ZmpapADvv5yA=/filters:format(webp)/cloudfront-us-east-1.images.arcpublishing.com/radiomitre/PE5CQODEUVFXJLSXC6JTTQEJFM.png",
+            "subtitle": "Juega la scaloneta"
+        },
+        {
+            "id": 3,
+            "title": "Perdio independiente",
+            "headerimageurl": "https://www.infiernorojo.com/independiente/wp-content/uploads/2021/05/equipo-derrota.jpg",
+            "subtitle": "Como siempre"
+        },
+        {
+            "id": 4,
+            "title": "Ganó Patronato",
+            "headerimageurl": "https://fotos.perfil.com/2021/09/17/trim/720/410/patronato-como-es-la-formacion-para-enfrentarse-a-estudiantes-1231976.jpg",
+            "subtitle": "Sorpresa en Paraná"
+        },
+        {
+            "id": 5,
+            "title": "Ganó Atletico Tucuman",
+            "headerimageurl": "http://www.laprensafederal.com.ar/wp-content/uploads/2022/03/p13-at-tucuman-1024x561.jpg",
+            "subtitle": "Pelea campeonato y copa"
+        },
+        {
+            "id": 6,
+            "title": "Final del campeonato",
+            "headerimageurl": "2022-09-29T12:42:25.042Z",
+            "subtitle": "2022-09-29T12:42:25.042Z"
+        }
+    ]
+}

@@ -1,0 +1,308 @@
+{
+  "getPackagesByFunctionalUnit": [
+    {
+      "code": "ap02j65",
+      "company": "Amazon",
+      "status": false
+    },
+    {
+      "code": "ap02j65dsa",
+      "company": "Amaazo",
+      "status": false
+    },
+    {
+      "code": "ap02j65s",
+      "company": "Amazon",
+      "status": false
+    }
+  ],
+  "carriers": [
+    {
+      "id": 1,
+      "name": "US Postal Service"
+    },
+    {
+      "id": 2,
+      "name": "Amazon"
+    },
+    {
+      "id": 3,
+      "name": "FedEx"
+    },
+    {
+      "id": 4,
+      "name": "Sendle"
+    },
+    {
+      "id": 5,
+      "name": "Spee Dee"
+    },
+    {
+      "id": 5,
+      "name": "Central Courier"
+    }
+  ],
+  "packages": [
+    {
+      "id": 170,
+      "detail": "ABRIR",
+      "functionalUnit": 1701,
+      "idInternal": 203,
+      "packageCode": "t876s2",
+      "status": true
+    },
+    {
+      "company": "Amazon",
+      "endDate": "2025-09-23T19:43:42.479Z",
+      "functionalUnit": "321as",
+      "idInternal": "102",
+      "nameUser": "fra",
+      "packageCode": "21",
+      "startDate": "2022-09-23T19:43:42.479Z",
+      "status": false,
+      "detail": "ABRIR",
+      "id": 171
+    },
+    {
+      "company": "US Postal Service",
+      "endDate": "2025-09-23T19:56:43.103Z",
+      "functionalUnit": "2",
+      "idInternal": "13",
+      "nameUser": "3",
+      "packageCode": "2",
+      "startDate": "2022-09-23T19:56:43.103Z",
+      "status": false,
+      "detail": "ABRIR",
+      "id": 172
+    }
+  ],
+  "guests": [
+    {
+      "invitation_id": 170,
+      "resident": "Sam Smith",
+      "functional_unit": 1701,
+      "guest": "Kim Kardashian",
+      "date": "05/09/2022",
+      "escorts": 5,
+      "status": true
+    },
+    {
+      "invitation_id": 1070,
+      "resident": "Ana de Armas",
+      "functional_unit": 309,
+      "guest": "Bretney Spears",
+      "date": "05/09/2022",
+      "escorts": 1,
+      "status": true
+    },
+    {
+      "invitation_id": 1023,
+      "resident": "Donald Trump",
+      "functional_unit": 902,
+      "guest": "Tina Turner",
+      "date": "04/09/2022",
+      "escorts": 0,
+      "status": false
+    },
+    {
+      "invitation_id": 1820,
+      "resident": "Zac Efron",
+      "functional_unit": 2501,
+      "guest": "Brad Pitt",
+      "date": "03/09/2022",
+      "escorts": 2,
+      "status": false
+    },
+    {
+      "invitation_id": 2030,
+      "resident": "Lionel Messi",
+      "functional_unit": 1010,
+      "guest": "Agustin Rossi",
+      "date": "03/09/2022",
+      "escorts": 2,
+      "status": true
+    },
+    {
+      "invitation_id": 200,
+      "resident": "Martin Palermo",
+      "functional_unit": 110,
+      "guest": "Julian Alvarez",
+      "date": "03/09/2022",
+      "escorts": 4,
+      "status": true
+    },
+    {
+      "invitation_id": 2300,
+      "resident": "Dua Lipa",
+      "functional_unit": 1120,
+      "guest": "Martin Palermo",
+      "date": "03/09/2022",
+      "escorts": 1,
+      "status": true
+    }
+  ],
+  "delivery": [
+    {
+      "authorized_company": "+5435269851455",
+      "functional_unit": "101",
+      "id": 1,
+      "name": "Sam",
+      "status": "INGRESADO",
+      "surname": "Smith"
+    },
+    {
+      "authorized_company": "+5435269875145",
+      "functional_unit": "102",
+      "id": 2,
+      "name": "Lionel",
+      "status": "PRE-AUTORIZADO",
+      "surname": "Messi"
+    },
+    {
+      "authorized_company": "+5435269885145",
+      "functional_unit": "103",
+      "id": 3,
+      "name": "Javier",
+      "status": "INGRESADO",
+      "surname": "Mascherano"
+    },
+    {
+      "authorized_company": "+5435296985145",
+      "functional_unit": "104",
+      "id": 4,
+      "name": "Neymar",
+      "status": "PRE-AUTORIZADO",
+      "surname": "Junior"
+    },
+    {
+      "authorized_company": "+5435269985145",
+      "functional_unit": "105",
+      "id": 5,
+      "name": "Dario",
+      "status": "INGRESADO",
+      "surname": "Benedetto"
+    },
+    {
+      "authorized_company": "+5439526985145",
+      "functional_unit": "101",
+      "id": 1,
+      "name": "Sam",
+      "status": "PRE-AUTORIZADO",
+      "surname": "Smith"
+    },
+    {
+      "authorized_company": "+543526985145",
+      "functional_unit": "101",
+      "id": 1,
+      "name": "Sam",
+      "status": "INGRESADO",
+      "surname": "Smith"
+    },
+    {
+      "authorized_company": "+543526985145",
+      "functional_unit": "101",
+      "id": 1,
+      "name": "Sam",
+      "status": "PRE-AUTORIZADO",
+      "surname": "Smith"
+    },
+    {
+      "authorized_company": "+543526985145",
+      "functional_unit": "101",
+      "id": 1,
+      "name": "Sam",
+      "status": "INGRESADO",
+      "surname": "Smith"
+    }
+  ],
+  "feeds": [
+    {
+      "id": 0,
+      "title": "Ganó Boca",
+      "headerimageurl": "https://pbs.twimg.com/media/E2W-PoQXoAQG-gB.jpg",
+      "subtitle": "El equipo mas grande de Arg"
+    },
+    {
+      "id": 1,
+      "title": "Perdió Riber",
+      "headerimageurl": "https://media.tycsports.com/files/2021/12/06/368366/river-invicto_416x234.jpg",
+      "subtitle": "De nuevo"
+    },
+    {
+      "id": 2,
+      "title": "Juega la selección",
+      "headerimageurl": "https://radiomitre-la100-prod.cdn.arcpublishing.com/resizer/lvjmjy1X3S9siN3ZmpapADvv5yA=/filters:format(webp)/cloudfront-us-east-1.images.arcpublishing.com/radiomitre/PE5CQODEUVFXJLSXC6JTTQEJFM.png",
+      "subtitle": "Juega la scaloneta"
+    },
+    {
+      "id": 3,
+      "title": "Perdio independiente",
+      "headerimageurl": "https://www.infiernorojo.com/independiente/wp-content/uploads/2021/05/equipo-derrota.jpg",
+      "subtitle": "Como siempre"
+    },
+    {
+      "id": 4,
+      "title": "Ganó Patronato",
+      "headerimageurl": "https://fotos.perfil.com/2021/09/17/trim/720/410/patronato-como-es-la-formacion-para-enfrentarse-a-estudiantes-1231976.jpg",
+      "subtitle": "Sorpresa en Paraná"
+    },
+    {
+      "id": 5,
+      "title": "Ganó Atletico Tucuman",
+      "headerimageurl": "http://www.laprensafederal.com.ar/wp-content/uploads/2022/03/p13-at-tucuman-1024x561.jpg",
+      "subtitle": "Pelea campeonato y copa"
+    },
+    {
+      "id": 6,
+      "title": "Final del campeonato",
+      "headerimageurl": "2022-09-29T12:42:25.042Z",
+      "subtitle": "2022-09-29T12:42:25.042Z"
+    }
+  ],
+  "articleById": [
+    {
+      "id": 0,
+      "title": "ID 0",
+      "coverImageUrl": "http://www.laprensafederal.com.ar/wp-content/uploads/2022/03/p13-at-tucuman-1024x561.jpg",
+      "body": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "imageUrl": "https://fotos.perfil.com/2021/09/17/trim/720/410/patronato-como-es-la-formacion-para-enfrentarse-a-estudiantes-1231976.jpg",
+      "documentUrl": 0,
+      "videoUrl": "string",
+      "startDate": "12/12/12",
+      "creationUser": "Lionel Messi"
+    },
+    {
+      "id": 1,
+      "title": "ID 1",
+      "coverImageUrl": "http://www.laprensafederal.com.ar/wp-content/uploads/2022/03/p13-at-tucuman-1024x561.jpg",
+      "body": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "imageUrl": "https://fotos.perfil.com/2021/09/17/trim/720/410/patronato-como-es-la-formacion-para-enfrentarse-a-estudiantes-1231976.jpg",
+      "documentUrl": 0,
+      "videoUrl": "string",
+      "startDate": "12/12/12",
+      "creationUser": "Lionel Messi"
+    },
+    {
+      "id": 2,
+      "title": "ID 2",
+      "coverImageUrl": "http://www.laprensafederal.com.ar/wp-content/uploads/2022/03/p13-at-tucuman-1024x561.jpg",
+      "body": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "imageUrl": "https://fotos.perfil.com/2021/09/17/trim/720/410/patronato-como-es-la-formacion-para-enfrentarse-a-estudiantes-1231976.jpg",
+      "documentUrl": 0,
+      "videoUrl": "string",
+      "startDate": "12/12/12",
+      "creationUser": "Lionel Messi"
+    },
+    {
+      "id": 3,
+      "title": "ID 3",
+      "coverImageUrl": "http://www.laprensafederal.com.ar/wp-content/uploads/2022/03/p13-at-tucuman-1024x561.jpg",
+      "body": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "imageUrl": "https://fotos.perfil.com/2021/09/17/trim/720/410/patronato-como-es-la-formacion-para-enfrentarse-a-estudiantes-1231976.jpg",
+      "documentUrl": 0,
+      "videoUrl": "string",
+      "startDate": "12/12/12",
+      "creationUser": "Lionel Messi"
+    }
+  ]
+}

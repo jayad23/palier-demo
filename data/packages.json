@@ -1,0 +1,36 @@
+{
+    "packages": [
+        {
+            "id": 170,
+            "detail": "ABRIR",
+            "functionalUnit": 1701,
+            "idInternal": 203,
+            "packageCode": "t876s2",
+            "status": true
+        },
+        {
+            "company": "Amazon",
+            "endDate": "2025-09-23T19:43:42.479Z",
+            "functionalUnit": "321as",
+            "idInternal": "102",
+            "nameUser": "fra",
+            "packageCode": "21",
+            "startDate": "2022-09-23T19:43:42.479Z",
+            "status": false,
+            "detail": "ABRIR",
+            "id": 171
+        },
+        {
+            "company": "US Postal Service",
+            "endDate": "2025-09-23T19:56:43.103Z",
+            "functionalUnit": "2",
+            "idInternal": "13",
+            "nameUser": "3",
+            "packageCode": "2",
+            "startDate": "2022-09-23T19:56:43.103Z",
+            "status": false,
+            "detail": "ABRIR",
+            "id": 172
+        }
+    ]
+}

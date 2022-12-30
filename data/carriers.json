@@ -1,0 +1,28 @@
+{
+    "carriers": [
+        {
+            "id": 1,
+            "name": "US Postal Service"
+        },
+        {
+            "id": 2,
+            "name": "Amazon"
+        },
+        {
+            "id": 3,
+            "name": "FedEx"
+        },
+        {
+            "id": 4,
+            "name": "Sendle"
+        },
+        {
+            "id": 5,
+            "name": "Spee Dee"
+        },
+        {
+            "id": 5,
+            "name": "Central Courier"
+        }
+    ]
+}
