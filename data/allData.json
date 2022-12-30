@@ -1791,5 +1791,313 @@
                 "code": 109
             }
         }
+    ],
+    "pets": [
+        {
+            "id": 1,
+            "size_id": 1,
+            "type_id": 1,
+            "sex_id": 0,
+            "fur_type_id": 1,
+            "name": "Firulais",
+            "birthday": 1672432191803,
+            "last_vaccination_date": 1672432181803,
+            "comments": "Es bueno cuidando niños.",
+            "sterilized": true
+        },
+        {
+            "id": 2,
+            "size_id": 1,
+            "type_id": 1,
+            "sex_id": 0,
+            "fur_type_id": 1,
+            "name": "Ayudante de Santa",
+            "birthday": 1672432191803,
+            "last_vaccination_date": 1672432181803,
+            "comments": "Es bueno repartiendo regalos.",
+            "sterilized": true
+        },
+        {
+            "id": 3,
+            "size_id": 1,
+            "type_id": 1,
+            "sex_id": 0,
+            "fur_type_id": 1,
+            "name": "Lazie",
+            "birthday": 1672432191803,
+            "last_vaccination_date": 1672432181803,
+            "comments": "Es bueno auyentando gente mala.",
+            "sterilized": true
+        },
+        {
+            "id": 4,
+            "size_id": 1,
+            "type_id": 1,
+            "sex_id": 0,
+            "fur_type_id": 1,
+            "name": "Bethoven",
+            "birthday": 1672432191803,
+            "last_vaccination_date": 1672432181803,
+            "comments": "Es bueno atravezando la nieve.",
+            "sterilized": true
+        },
+        {
+            "id": 5,
+            "size_id": 1,
+            "type_id": 1,
+            "sex_id": 0,
+            "fur_type_id": 1,
+            "name": "Rex",
+            "birthday": 1672432191803,
+            "last_vaccination_date": 1672432181803,
+            "comments": "Es bueno resolviendo casos.",
+            "sterilized": true
+        }
+    ],
+    "pets_requests": [
+        {
+            "id": 1,
+            "size_id": 1,
+            "type_id": 1,
+            "sex_id": 0,
+            "fur_type_id": 1,
+            "name": "Firulais",
+            "birthday": 1672432191803,
+            "last_vaccination_date": 1672432181803,
+            "comments": "Es bueno cuidando niños.",
+            "sterilized": true
+        },
+        {
+            "id": 2,
+            "size_id": 1,
+            "type_id": 1,
+            "sex_id": 0,
+            "fur_type_id": 1,
+            "name": "Ayudante de Santa",
+            "birthday": 1672432191803,
+            "last_vaccination_date": 1672432181803,
+            "comments": "Es bueno repartiendo regalos.",
+            "sterilized": true
+        },
+        {
+            "id": 3,
+            "size_id": 1,
+            "type_id": 1,
+            "sex_id": 0,
+            "fur_type_id": 1,
+            "name": "Lazie",
+            "birthday": 1672432191803,
+            "last_vaccination_date": 1672432181803,
+            "comments": "Es bueno auyentando gente mala.",
+            "sterilized": true
+        },
+        {
+            "id": 4,
+            "size_id": 1,
+            "type_id": 1,
+            "sex_id": 0,
+            "fur_type_id": 1,
+            "name": "Bethoven",
+            "birthday": 1672432191803,
+            "last_vaccination_date": 1672432181803,
+            "comments": "Es bueno atravezando la nieve.",
+            "sterilized": true
+        },
+        {
+            "id": 5,
+            "size_id": 1,
+            "type_id": 1,
+            "sex_id": 0,
+            "fur_type_id": 1,
+            "name": "Rex",
+            "birthday": 1672432191803,
+            "last_vaccination_date": 1672432181803,
+            "comments": "Es bueno resolviendo casos.",
+            "sterilized": true
+        }
+    ],
+    "vehicles": [
+        {
+            "id": 1,
+            "brand": {
+                "name": "Mercedes"
+            },
+            "model": {
+                "name": "1987"
+            },
+            "color": {
+                "name": "Gray"
+            },
+            "fuel_type": {
+                "name": "Diesel"
+            },
+            "license_plate": "RMA-123",
+            "comments": "Está en excelentes condiciones",
+            "is_rented": false
+        },
+        {
+            "id": 2,
+            "brand": {
+                "name": "BMW"
+            },
+            "model": {
+                "name": "1987"
+            },
+            "color": {
+                "name": "Gray"
+            },
+            "fuel_type": {
+                "name": "Diesel"
+            },
+            "license_plate": "RMA-123",
+            "comments": "Está en excelentes condiciones",
+            "is_rented": false
+        },
+        {
+            "id": 3,
+            "brand": {
+                "name": "Aston Martin"
+            },
+            "model": {
+                "name": "1987"
+            },
+            "color": {
+                "name": "Gray"
+            },
+            "fuel_type": {
+                "name": "Diesel"
+            },
+            "license_plate": "RMA-123",
+            "comments": "Está en excelentes condiciones",
+            "is_rented": false
+        },
+        {
+            "id": 4,
+            "brand": {
+                "name": "Jaguar"
+            },
+            "model": {
+                "name": "1987"
+            },
+            "color": {
+                "name": "Yellow"
+            },
+            "fuel_type": {
+                "name": "Diesel"
+            },
+            "license_plate": "RMA-123",
+            "comments": "Está en excelentes condiciones",
+            "is_rented": false
+        },
+        {
+            "id": 5,
+            "brand": {
+                "name": "Mustang SS"
+            },
+            "model": {
+                "name": "1987"
+            },
+            "color": {
+                "name": "Gray"
+            },
+            "fuel_type": {
+                "name": "Diesel"
+            },
+            "license_plate": "RMA-123",
+            "comments": "Está en excelentes condiciones",
+            "is_rented": false
+        }
+    ],
+    "vehicles_requests": [
+        {
+            "id": 1,
+            "brand": {
+                "name": "Mercedes"
+            },
+            "model": {
+                "name": "1987"
+            },
+            "color": {
+                "name": "Gray"
+            },
+            "fuel_type": {
+                "name": "Diesel"
+            },
+            "license_plate": "RMA-123",
+            "comments": "Está en excelentes condiciones",
+            "is_rented": false
+        },
+        {
+            "id": 2,
+            "brand": {
+                "name": "BMW"
+            },
+            "model": {
+                "name": "1987"
+            },
+            "color": {
+                "name": "Gray"
+            },
+            "fuel_type": {
+                "name": "Diesel"
+            },
+            "license_plate": "RMA-123",
+            "comments": "Está en excelentes condiciones",
+            "is_rented": false
+        },
+        {
+            "id": 3,
+            "brand": {
+                "name": "Aston Martin"
+            },
+            "model": {
+                "name": "1987"
+            },
+            "color": {
+                "name": "Gray"
+            },
+            "fuel_type": {
+                "name": "Diesel"
+            },
+            "license_plate": "RMA-123",
+            "comments": "Está en excelentes condiciones",
+            "is_rented": false
+        },
+        {
+            "id": 4,
+            "brand": {
+                "name": "Jaguar"
+            },
+            "model": {
+                "name": "1987"
+            },
+            "color": {
+                "name": "Yellow"
+            },
+            "fuel_type": {
+                "name": "Diesel"
+            },
+            "license_plate": "RMA-123",
+            "comments": "Está en excelentes condiciones",
+            "is_rented": false
+        },
+        {
+            "id": 5,
+            "brand": {
+                "name": "Mustang SS"
+            },
+            "model": {
+                "name": "1987"
+            },
+            "color": {
+                "name": "Gray"
+            },
+            "fuel_type": {
+                "name": "Diesel"
+            },
+            "license_plate": "RMA-123",
+            "comments": "Está en excelentes condiciones",
+            "is_rented": false
+        }
     ]
 }
