@@ -1795,125 +1795,220 @@
     "pets": [
         {
             "id": 1,
-            "size_id": 1,
-            "type_id": 1,
-            "sex_id": 0,
-            "fur_type_id": 1,
             "name": "Firulais",
-            "birthday": 1672432191803,
-            "last_vaccination_date": 1672432181803,
-            "comments": "Es bueno cuidando niños.",
-            "sterilized": true
+            "birthday": 2018,
+            "last_vaccination_date": 1546311600000,
+            "comments": "Es un perro muy fiel",
+            "is_sterilized": false,
+            "type": {
+                "name": "DOG"
+            },
+            "size": {
+                "name": "SMALL"
+            },
+            "fur_type": {
+                "name": "LONG"
+            },
+            "sex": {
+                "name": "MALE"
+            }
         },
         {
             "id": 2,
-            "size_id": 1,
-            "type_id": 1,
-            "sex_id": 0,
-            "fur_type_id": 1,
-            "name": "Ayudante de Santa",
-            "birthday": 1672432191803,
-            "last_vaccination_date": 1672432181803,
-            "comments": "Es bueno repartiendo regalos.",
-            "sterilized": true
+            "name": "Lazie",
+            "birthday": 2018,
+            "last_vaccination_date": 1546311600000,
+            "comments": "Ayuda a otros",
+            "is_sterilized": false,
+            "type": {
+                "name": "DOG"
+            },
+            "size": {
+                "name": "SMALL"
+            },
+            "fur_type": {
+                "name": "LONG"
+            },
+            "sex": {
+                "name": "MALE"
+            }
         },
         {
             "id": 3,
-            "size_id": 1,
-            "type_id": 1,
-            "sex_id": 0,
-            "fur_type_id": 1,
-            "name": "Lazie",
-            "birthday": 1672432191803,
-            "last_vaccination_date": 1672432181803,
-            "comments": "Es bueno auyentando gente mala.",
-            "sterilized": true
+            "name": "Bethoven",
+            "birthday": 2018,
+            "last_vaccination_date": 1546311600000,
+            "comments": "Listo para el servicio",
+            "is_sterilized": false,
+            "type": {
+                "name": "DOG"
+            },
+            "size": {
+                "name": "SMALL"
+            },
+            "fur_type": {
+                "name": "LONG"
+            },
+            "sex": {
+                "name": "MALE"
+            }
         },
         {
             "id": 4,
-            "size_id": 1,
-            "type_id": 1,
-            "sex_id": 0,
-            "fur_type_id": 1,
-            "name": "Bethoven",
-            "birthday": 1672432191803,
-            "last_vaccination_date": 1672432181803,
-            "comments": "Es bueno atravezando la nieve.",
-            "sterilized": true
+            "name": "Ayudante de Santa",
+            "birthday": 2018,
+            "last_vaccination_date": 1546311600000,
+            "comments": "Es muy noble",
+            "is_sterilized": false,
+            "type": {
+                "name": "DOG"
+            },
+            "size": {
+                "name": "SMALL"
+            },
+            "fur_type": {
+                "name": "LONG"
+            },
+            "sex": {
+                "name": "MALE"
+            }
         },
         {
             "id": 5,
-            "size_id": 1,
-            "type_id": 1,
-            "sex_id": 0,
-            "fur_type_id": 1,
-            "name": "Rex",
-            "birthday": 1672432191803,
-            "last_vaccination_date": 1672432181803,
-            "comments": "Es bueno resolviendo casos.",
-            "sterilized": true
+            "name": "Corage",
+            "birthday": 2018,
+            "last_vaccination_date": 1546311600000,
+            "comments": "Es un perro muy valiente.",
+            "is_sterilized": false,
+            "type": {
+                "name": "DOG"
+            },
+            "size": {
+                "name": "SMALL"
+            },
+            "fur_type": {
+                "name": "LONG"
+            },
+            "sex": {
+                "name": "MALE"
+            }
         }
     ],
     "pets_requests": [
         {
             "id": 1,
-            "size_id": 1,
-            "type_id": 1,
-            "sex_id": 0,
-            "fur_type_id": 1,
-            "name": "Firulais",
-            "birthday": 1672432191803,
-            "last_vaccination_date": 1672432181803,
-            "comments": "Es bueno cuidando niños.",
-            "sterilized": true
+            "apartment": 101,
+            "birthday": 2018,
+            "last_vaccination_date": 1546311600000,
+            "is_sterilized": true,
+            "is_service_animal": true,
+            "type": {
+                "name": "DOG"
+            },
+            "size": {
+                "name": "SMALL"
+            },
+            "fur_type": {
+                "name": "LONG"
+            },
+            "sex": {
+                "type": "MALE"
+            },
+            "breed": {
+                "type": "Chanda"
+            }
         },
         {
             "id": 2,
-            "size_id": 1,
-            "type_id": 1,
-            "sex_id": 0,
-            "fur_type_id": 1,
-            "name": "Ayudante de Santa",
-            "birthday": 1672432191803,
-            "last_vaccination_date": 1672432181803,
-            "comments": "Es bueno repartiendo regalos.",
-            "sterilized": true
+            "apartment": 102,
+            "birthday": 2018,
+            "last_vaccination_date": 1546311600000,
+            "is_sterilized": false,
+            "is_service_animal": false,
+            "type": {
+                "name": "DOG"
+            },
+            "size": {
+                "name": "SMALL"
+            },
+            "fur_type": {
+                "name": "LONG"
+            },
+            "sex": {
+                "type": "MALE"
+            },
+            "breed": {
+                "type": "Chanda"
+            }
         },
         {
             "id": 3,
-            "size_id": 1,
-            "type_id": 1,
-            "sex_id": 0,
-            "fur_type_id": 1,
-            "name": "Lazie",
-            "birthday": 1672432191803,
-            "last_vaccination_date": 1672432181803,
-            "comments": "Es bueno auyentando gente mala.",
-            "sterilized": true
+            "apartment": 103,
+            "birthday": 2018,
+            "last_vaccination_date": 1546311600000,
+            "is_sterilized": false,
+            "is_service_animal": true,
+            "type": {
+                "name": "DOG"
+            },
+            "size": {
+                "name": "SMALL"
+            },
+            "fur_type": {
+                "name": "LONG"
+            },
+            "sex": {
+                "type": "MALE"
+            },
+            "breed": {
+                "type": "Chanda"
+            }
         },
         {
             "id": 4,
-            "size_id": 1,
-            "type_id": 1,
-            "sex_id": 0,
-            "fur_type_id": 1,
-            "name": "Bethoven",
-            "birthday": 1672432191803,
-            "last_vaccination_date": 1672432181803,
-            "comments": "Es bueno atravezando la nieve.",
-            "sterilized": true
+            "apartment": 104,
+            "birthday": 2018,
+            "last_vaccination_date": 1546311600000,
+            "is_sterilized": true,
+            "is_service_animal": false,
+            "type": {
+                "name": "DOG"
+            },
+            "size": {
+                "name": "SMALL"
+            },
+            "fur_type": {
+                "name": "LONG"
+            },
+            "sex": {
+                "type": "MALE"
+            },
+            "breed": {
+                "type": "Chanda"
+            }
         },
         {
             "id": 5,
-            "size_id": 1,
-            "type_id": 1,
-            "sex_id": 0,
-            "fur_type_id": 1,
-            "name": "Rex",
-            "birthday": 1672432191803,
-            "last_vaccination_date": 1672432181803,
-            "comments": "Es bueno resolviendo casos.",
-            "sterilized": true
+            "apartment": 105,
+            "birthday": 2018,
+            "last_vaccination_date": 1546311600000,
+            "is_sterilized": false,
+            "is_service_animal": false,
+            "type": {
+                "name": "DOG"
+            },
+            "size": {
+                "name": "SMALL"
+            },
+            "fur_type": {
+                "name": "LONG"
+            },
+            "sex": {
+                "type": "MALE"
+            },
+            "breed": {
+                "type": "Chanda"
+            }
         }
     ],
     "vehicles": [
