@@ -2014,6 +2014,7 @@
     "vehicles": [
         {
             "id": 1,
+            "apartment": 101,
             "brand": {
                 "name": "Mercedes"
             },
@@ -2032,6 +2033,7 @@
         },
         {
             "id": 2,
+            "apartment": 101,
             "brand": {
                 "name": "BMW"
             },
@@ -2050,6 +2052,7 @@
         },
         {
             "id": 3,
+            "apartment": 101,
             "brand": {
                 "name": "Aston Martin"
             },
@@ -2068,6 +2071,7 @@
         },
         {
             "id": 4,
+            "apartment": 101,
             "brand": {
                 "name": "Jaguar"
             },
@@ -2086,6 +2090,7 @@
         },
         {
             "id": 5,
+            "apartment": 101,
             "brand": {
                 "name": "Mustang SS"
             },
@@ -2106,6 +2111,7 @@
     "vehicles_requests": [
         {
             "id": 1,
+            "apartment": 101,
             "brand": {
                 "name": "Mercedes"
             },
@@ -2119,11 +2125,11 @@
                 "name": "Diesel"
             },
             "license_plate": "RMA-123",
-            "comments": "Está en excelentes condiciones",
             "is_rented": false
         },
         {
             "id": 2,
+            "apartment": 101,
             "brand": {
                 "name": "BMW"
             },
@@ -2137,11 +2143,11 @@
                 "name": "Diesel"
             },
             "license_plate": "RMA-123",
-            "comments": "Está en excelentes condiciones",
             "is_rented": false
         },
         {
             "id": 3,
+            "apartment": 101,
             "brand": {
                 "name": "Aston Martin"
             },
@@ -2155,11 +2161,11 @@
                 "name": "Diesel"
             },
             "license_plate": "RMA-123",
-            "comments": "Está en excelentes condiciones",
             "is_rented": false
         },
         {
             "id": 4,
+            "apartment": 101,
             "brand": {
                 "name": "Jaguar"
             },
@@ -2173,11 +2179,11 @@
                 "name": "Diesel"
             },
             "license_plate": "RMA-123",
-            "comments": "Está en excelentes condiciones",
             "is_rented": false
         },
         {
             "id": 5,
+            "apartment": 101,
             "brand": {
                 "name": "Mustang SS"
             },
@@ -2191,7 +2197,6 @@
                 "name": "Diesel"
             },
             "license_plate": "RMA-123",
-            "comments": "Está en excelentes condiciones",
             "is_rented": false
         }
     ]
