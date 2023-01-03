@@ -11,6 +11,7 @@ const vehicles = require("./data/vehicles.json")
 const vechicles_requests = require("./data/vehicles-requests.json")
 const pets = require("./data/pets.json")
 const pets_requests = require("./data/pets-requests.json")
+const relatives_requests = require("./data/relatives-requests.json")
 
 module.exports = {
     getPackagesByFunctionalUnit,
@@ -24,5 +25,6 @@ module.exports = {
     vehicles,
     vechicles_requests,
     pets,
-    pets_requests
+    pets_requests,
+    relatives_requests
 }
