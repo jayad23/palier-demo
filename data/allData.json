@@ -2199,5 +2199,51 @@
             "license_plate": "RMA-123",
             "is_rented": false
         }
+    ],
+    "relatives_requests": [
+        {
+            "id": 3,
+            "relative_state": {
+                "name": "pendiente"
+            },
+            "person": {
+                "id": 13,
+                "name": "Julieta",
+                "surname": "Del carmen",
+                "email": "juliet@gmail.com",
+                "country_code": "1231548",
+                "area_code": "011",
+                "phone_number": "32132151",
+                "avatar_url": null
+            },
+            "relationship_type": {
+                "name": "Madre"
+            },
+            "property": {
+                "code": "18"
+            }
+        },
+        {
+            "id": 3,
+            "relative_state": {
+                "name": "pendiente"
+            },
+            "person": {
+                "id": 23,
+                "name": "Maria",
+                "surname": "Del carmen",
+                "email": "maria@gmail.com",
+                "country_code": "1331548",
+                "area_code": "011",
+                "phone_number": "32132151",
+                "avatar_url": null
+            },
+            "relationship_type": {
+                "name": "Madre"
+            },
+            "property": {
+                "code": "28"
+            }
+        }
     ]
 }
