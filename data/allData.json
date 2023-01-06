@@ -1801,16 +1801,16 @@
             "comments": "Es un perro muy fiel",
             "is_sterilized": false,
             "type": {
-                "name": "DOG"
+                "name": "Dog"
             },
             "size": {
-                "name": "SMALL"
+                "name": "Small"
             },
             "fur_type": {
-                "name": "LONG"
+                "name": "Long"
             },
             "sex": {
-                "name": "MALE"
+                "name": "Male"
             }
         },
         {
@@ -1821,16 +1821,16 @@
             "comments": "Ayuda a otros",
             "is_sterilized": false,
             "type": {
-                "name": "DOG"
+                "name": "Dog"
             },
             "size": {
-                "name": "SMALL"
+                "name": "Small"
             },
             "fur_type": {
-                "name": "LONG"
+                "name": "Long"
             },
             "sex": {
-                "name": "MALE"
+                "name": "Male"
             }
         },
         {
@@ -1841,16 +1841,16 @@
             "comments": "Listo para el servicio",
             "is_sterilized": false,
             "type": {
-                "name": "DOG"
+                "name": "Dog"
             },
             "size": {
-                "name": "SMALL"
+                "name": "Small"
             },
             "fur_type": {
-                "name": "LONG"
+                "name": "Long"
             },
             "sex": {
-                "name": "MALE"
+                "name": "Male"
             }
         },
         {
@@ -1861,16 +1861,16 @@
             "comments": "Es muy noble",
             "is_sterilized": false,
             "type": {
-                "name": "DOG"
+                "name": "Dog"
             },
             "size": {
-                "name": "SMALL"
+                "name": "Small"
             },
             "fur_type": {
-                "name": "LONG"
+                "name": "Long"
             },
             "sex": {
-                "name": "MALE"
+                "name": "Male"
             }
         },
         {
@@ -1881,16 +1881,16 @@
             "comments": "Es un perro muy valiente.",
             "is_sterilized": false,
             "type": {
-                "name": "DOG"
+                "name": "Dog"
             },
             "size": {
-                "name": "SMALL"
+                "name": "Small"
             },
             "fur_type": {
-                "name": "LONG"
+                "name": "Long"
             },
             "sex": {
-                "name": "MALE"
+                "name": "Male"
             }
         }
     ],
@@ -1903,16 +1903,16 @@
             "is_sterilized": true,
             "is_service_animal": true,
             "type": {
-                "name": "DOG"
+                "name": "Dog"
             },
             "size": {
-                "name": "SMALL"
+                "name": "Small"
             },
             "fur_type": {
-                "name": "LONG"
+                "name": "Long"
             },
             "sex": {
-                "type": "MALE"
+                "name": "Male"
             },
             "breed": {
                 "type": "Chanda"
@@ -1926,16 +1926,16 @@
             "is_sterilized": false,
             "is_service_animal": false,
             "type": {
-                "name": "DOG"
+                "name": "Dog"
             },
             "size": {
-                "name": "SMALL"
+                "name": "Small"
             },
             "fur_type": {
-                "name": "LONG"
+                "name": "Long"
             },
             "sex": {
-                "type": "MALE"
+                "name": "Male"
             },
             "breed": {
                 "type": "Chanda"
@@ -1949,16 +1949,16 @@
             "is_sterilized": false,
             "is_service_animal": true,
             "type": {
-                "name": "DOG"
+                "name": "Dog"
             },
             "size": {
-                "name": "SMALL"
+                "name": "Small"
             },
             "fur_type": {
-                "name": "LONG"
+                "name": "Long"
             },
             "sex": {
-                "type": "MALE"
+                "name": "Male"
             },
             "breed": {
                 "type": "Chanda"
@@ -1972,16 +1972,16 @@
             "is_sterilized": true,
             "is_service_animal": false,
             "type": {
-                "name": "DOG"
+                "name": "Dog"
             },
             "size": {
-                "name": "SMALL"
+                "name": "Small"
             },
             "fur_type": {
-                "name": "LONG"
+                "name": "Long"
             },
             "sex": {
-                "type": "MALE"
+                "name": "Male"
             },
             "breed": {
                 "type": "Chanda"
@@ -1995,16 +1995,16 @@
             "is_sterilized": false,
             "is_service_animal": false,
             "type": {
-                "name": "DOG"
+                "name": "Dog"
             },
             "size": {
-                "name": "SMALL"
+                "name": "Small"
             },
             "fur_type": {
-                "name": "LONG"
+                "name": "Long"
             },
             "sex": {
-                "type": "MALE"
+                "name": "Male"
             },
             "breed": {
                 "type": "Chanda"
